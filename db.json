@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "prname": "Rice",
+      "pr": "100",
+      "oldpr": "50",
+      "category": "Foods",
+      "active": "active",
+      "desc": "healthy",
+      "id": "qPsE4ki"
+    },
+    {
+      "prname": "Carrot ",
+      "pr": "30",
+      "oldpr": "40",
+      "category": "Vegetables",
+      "active": "Inactive",
+      "desc": "Make a juice and have a drink",
+      "id": "prDH1PR"
+    }
+  ]
+}
